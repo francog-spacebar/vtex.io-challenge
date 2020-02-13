@@ -1,2 +1,5 @@
-# store-framework-template
-The template repository for the Store Framework course on Learning Lab.
+## Vtex Training Mexico Challenge
+
+# Franco Giordani's submission
+
+Store Framework Challenge
